@@ -13,7 +13,7 @@ This file can be accessed using the docker command below:
 docker pull parspublic.azurecr.us/ip2m-server:11.22.0
 ```
 
-Please reach out to support@pars.doe.gov for installation and configuration assistance. The following Environment Variables will need to be configured on your docker host. Comments are provided after lines that need to be modified.
+Please reach out to support@pars.doe.gov for installation and configuration assistance. Within PARS, the tool is hosted in an Azure Web Apps container connecting to an Azure SQL Managed instance, but other docker hosting tools should work. The following Environment Variables will need to be configured on your docker host. Comments are provided after lines that need to be modified.
 
 ```
 FLASK_APP=project/__init__.py

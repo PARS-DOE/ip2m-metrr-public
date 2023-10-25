@@ -1,114 +1,93 @@
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
-   1. Definitions.
+Usage and distribution of this Software is strictly limited to approved users,
+using it for an approved purpose, in accordance with all applicable terms
+outlined in the EULA below. By downloading and using this Software, you
+acknowledge and agree to comply with all EULA terms, and acknowledge that this
+EULA represents the Entire Agreement between you, DOE, and ASU relating to the
+Software and it supersedes all prior or contemporaneous oral or written
+communications, proposals, and representations with respect to the Software, DT,
+or any other subject matter covered by this EULA.
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+---
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+EULA
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+This End-User License Agreement ("EULA") is a legal agreement between (a) the
+Department of Energy (“DOE”) and (b) Arizona State University (“ASU”), and the
+Arizona Board of Regents (“ABOR”) on behalf of Arizona State University (“ASU”)
+and ASU's Decision Theater (“DT”). ASU entered into a purchase order
+DOEPM.400211.TS-003.ASU with TechSource in order for TechSource to provide
+certain services to the DOE (“PO”) related to Integrated Project/Program
+Management (IP2M) Maturity and Environment Total Risk Rating (METRR) using
+Earned Value Management System (EVMS). The effective date (“Effective Date”) of
+this EULA is Friday, 20 October, 2023.
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+1. GRANT OF LICENSE. DT has an existing proprietary software entitled Keystone
+   (“Background Software”). As part of the PO, ASU has continued development of
+   the Background Software to include the IP2M specific features as described in
+   Exhibit A (“Foreground Software”) together (“Software”). a. Use. ASU grants
+   the United States Government and others acting on its behalf, a paid-up,
+   nonexclusive, irrevocable, worldwide license for the Software to reproduce,
+   prepare derivative works, and perform publicly and display publicly (but not
+   distribute) copies to the public, by or on behalf of the Government. DOE may
+   not use the Software for any other purpose and DOE does not have the right to
+   distribute the Software except for these purposes. DOE agrees to only use the
+   Software as expressly permitted herein. b. Reservation of Rights. The
+   Software are licensed to DOE by ASU and DT. As between DOE and ASU, ASU owns
+   all rights, title and interest in and to the Software and reserves all rights
+   not expressly licensed to DOE in this EULA c. Restrictions. Except as
+   provided for above, DOE may not sell, or sublicense the Software to any third
+   party without first obtaining the express written consent of ASU.
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+2. PROPRIETARY RIGHTS. All intellectual property rights in the Software are
+   owned by ASU, including but not limited to copyright, patent, trade secret,
+   and trademark law, as well as other applicable laws and international treaty
+   provisions. DOE shall not remove any product identification, copyright
+   notice, or proprietary restriction from the Software. ASU agrees to the affix
+   the applicable copyright notice of 17 U.S.C. 401 or 402 on the Software and
+   also an acknowledgment of DOE sponsorship and license rights.
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
+3. MODIFICATION. DOE may modify the Software or create any derivative works of
+   the Software. “Derivative works” include any modification or new version of
+   the Software and include but are not limited to translations.
 
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
+4. DT TRADEMARK. DOE is not authorized to and shall not without the prior
+   written consent of ASU use the DT trademark or any ASU trademark in any
+   advertising, publicity, or other commercial manner. ASU is not authorized to
+   and shall not use DOE's logo or the DOE seal in any advertising, publicity,
+   or other commercial manner.
 
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
+5. TERM. Unless otherwise agreed to by DOE and ASU and subject to the
+   availability of funds, this EULA is perpetual. However, before modifying or
+   terminating this EULA for any cause, ASU shall furnish DOE, a written notice
+   of ASU's intention to modify or terminate this License, with reasons
+   therefor, and DOE shall be allowed thirty (30) days from the date of the
+   mailing of such notice to remedy any breach of any term or condition referred
+   to in the notice or to show cause why this EULA should not be modified or
+   terminated. DOE may terminate this License upon not less than sixty (60) days
+   prior written notice to ASU.
 
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
+6. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY. THE SOFTWARE IS LICENSED
+   ON AN “AS-IS” BASIS. TO THE MAXIMUM EXTENT PERMITTED BY LAW, ASU DISCLAIMS
+   ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT
+   LIMITATION THE IMPLIED WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT,
+   FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND QUALITY. NO WARRANTIES SHALL
+   ARISE UNDER THIS EULA FROM COURSE OF DEALING OR USAGE OF TRADE. ASU DOES NOT
+   WARRANT THAT THE SOFTWARE IS FREE OF THIRD-PARTY CLAIMS OF INFRINGEMENT OR
+   MISAPPROPRIATION OF INTELLECTUAL PROPERTY RIGHTS. ASU MAKES NO WARRANTY,
+   EXPRESS OR IMPLIED, ABOUT ANY POSSIBLE OUTCOME OR RESULT IN THE USE OF THE
+   SOFTWARE. DOE ASSUME ALL RESPONSIBILITY FOR THE SELECTION OF THE SOFTWARE TO
+   ACHIEVE DOE INTENDED RESULTS AND FOR THE USE AND RESULTS OF THE SOFTWARE. IN
+   NO EVENT SHALL ASU INCUR ANY MONETARY LIABILITY IN RELATION TO THIS EULA OR
+   THE SOFTWARE.
 
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
+7. APPLICABLE LAW. This EULA shall be governed in accordance with the laws of
+   the United States of America, and in the absence of applicable federal law,
+   the laws of the State of Arizona.] Notice is hereby provided of Arizona
+   Revised Statues (“A.R.S.”) §§ 38-511, 41-2517, 41-753, 12-1518, and 12-133.
 
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to use the Work for the non-commercial purpose
-      of evaluating an implementation of project controls, so long as You
-      are a Federal Agency, contractor supporting a Federal Agency, or
-      an agent thereof conducting work for the government to perform
-      EVMS assessments. Academic use of the Work is also permitted. Any 
-      other use of the Work may be authorized in writing by representatives
-      of the US Department of Energy, who may be reached by emailing 
-      support@pars.doe.gov. Source code to this Work may be available
-      by contacting the above party.
-      
-   3. Reverse Engineering. You may not reverse engineer or attempt to
-      create derivative or modified versions of the Work without
-      explicit written permission from representatives of the US
-      Department of Energy.
- 
-   4. Redistribution. You may not reproduce or distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form.
-
-   5. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using the Work and assume any
-      risks associated with Your exercise of permissions under this License.
-
-   6. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
-
-   END OF TERMS AND CONDITIONS
-
-   Copyright 2022 United States Department of Energy
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+8. ENTIRE AGREEMENT. This EULA is the entire agreement between DOE and ASU
+   relating to the Software and it supersedes all prior or contemporaneous oral
+   or written communications, proposals, and representations with respect to the
+   Software, DT, or any other subject matter covered by this EULA.

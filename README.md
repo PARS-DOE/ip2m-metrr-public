@@ -8,7 +8,7 @@ Please review the details of the LICENSE file included in this repository.
 
 Please reach out to <support@pars.doe.gov> for installation and configuration assistance. Within PARS, the tool is hosted in an Azure Web Apps container connecting to an Azure SQL Managed instance, but other Docker hosting tools should work. The following Environment Variables will need to be configured on your Docker host. Comments are provided after lines that need to be modified.
 
-```{conf}
+```
 FLASK_APP=project/__init__.py
 FLASK_ENV=production
 FLASK_DEBUG=0

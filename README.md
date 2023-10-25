@@ -4,6 +4,10 @@ A public repository making the ASU developed IP2M-METRR tool available for limit
 
 Please review the details of the LICENSE file included in this repository.
 
+## Releases
+
+You can find the latest published version of IP2M-METRR [here](https://github.com/PARS-DOE/ip2m-metrr-public/releases/latest). For historical releases, please see our [releases page](https://github.com/PARS-DOE/ip2m-metrr-public/releases).
+
 ## Support
 
 Please reach out to <support@pars.doe.gov> for installation and configuration assistance. Within PARS, the tool is hosted in an Azure Web Apps container connecting to an Azure SQL Managed instance, but other Docker hosting tools should work. The following Environment Variables will need to be configured on your Docker host. Comments are provided after lines that need to be modified.
